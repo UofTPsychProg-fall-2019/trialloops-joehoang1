@@ -1,0 +1,92 @@
+6.8740 	WARNING 	User requested fullscreen with size [1024  768], but screen is actually [1440, 900]. Using actual size
+7.5947 	EXP 	Created window1 = Window(allowGUI=False, allowStencil=False, args=UNKNOWN, autoLog=True, bitsMode=UNKNOWN, blendMode='avg', color=array([0., 0., 0.]), colorSpace='rgb', fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x13738afd0>, gamma=None, gammaErrorPolicy='raise', kwargs=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x135e015f8>, multiSample=False, name='window1', numSamples=2, pos=[360.0, 225.0], screen=0, size=array([2880, 1800]), stereo=False, units='height', useFBO=True, useRetina=True, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+7.5948 	EXP 	window1: recordFrameIntervals = False
+7.7607 	EXP 	window1: recordFrameIntervals = True
+7.9442 	EXP 	window1: recordFrameIntervals = False
+8.6658 	EXP 	Created InstructionText = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='black', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='InstructionText', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=array([0., 0., 0.]), text=str(...), units='height', win=Window(...), wrapWidth=1)
+8.6681 	EXP 	Created DogImage = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, image='sin', interpolate=True, mask=None, maskParams=None, name='DogImage', opacity=1.0, ori=0.0, pos=array([0.5, 0. ]), size=array([0.5, 0.5]), texRes=128, units='height', win=Window(...))
+8.6700 	EXP 	Created DogImage2 = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, image='sin', interpolate=True, mask=None, maskParams=None, name='DogImage2', opacity=1.0, ori=0.0, pos=array([-0.5,  0. ]), size=array([0.5, 0.5]), texRes=128, units='height', win=Window(...))
+8.8679 	EXP 	InstructionText: autoDraw = True
+10.8705 	DATA 	Keypress: a
+11.8584 	EXP 	Imported DogCond.csv as conditions, 3 conditions, 2 params
+11.8588 	EXP 	Created sequence: random, trialTypes=3, nReps=3, seed=None
+11.8592 	EXP 	New trial (rep=0, index=0): OrderedDict([('Cond1', 'dog/3.jpg'), ('Cond2', 'dog/4.jpg')])
+11.9826 	EXP 	InstructionText: autoDraw = False
+11.9826 	EXP 	DogImage: image = 'dog/3.jpg'
+11.9826 	EXP 	DogImage2: image = 'dog/4.jpg'
+11.9826 	EXP 	DogImage: autoDraw = True
+11.9826 	EXP 	DogImage2: autoDraw = True
+12.9859 	EXP 	DogImage: autoDraw = False
+12.9859 	EXP 	DogImage2: autoDraw = False
+15.3529 	EXP 	New trial (rep=0, index=1): OrderedDict([('Cond1', 'dog/1.jpg'), ('Cond2', 'dog/2.jpg')])
+15.4012 	DATA 	Keypress: a
+15.4210 	EXP 	DogImage: autoDraw = False
+15.4210 	EXP 	DogImage2: autoDraw = False
+15.4210 	EXP 	DogImage: image = 'dog/1.jpg'
+15.4210 	EXP 	DogImage2: image = 'dog/2.jpg'
+15.4210 	EXP 	DogImage: autoDraw = True
+15.4210 	EXP 	DogImage2: autoDraw = True
+16.4215 	EXP 	DogImage: autoDraw = False
+16.4215 	EXP 	DogImage2: autoDraw = False
+17.6199 	EXP 	New trial (rep=0, index=2): OrderedDict([('Cond1', 'dog/5.jpg'), ('Cond2', 'dog/6.jpg')])
+17.6738 	DATA 	Keypress: a
+17.6959 	EXP 	DogImage: autoDraw = False
+17.6959 	EXP 	DogImage2: autoDraw = False
+17.6959 	EXP 	DogImage: image = 'dog/5.jpg'
+17.6959 	EXP 	DogImage2: image = 'dog/6.jpg'
+17.6959 	EXP 	DogImage: autoDraw = True
+17.6959 	EXP 	DogImage2: autoDraw = True
+18.7043 	EXP 	DogImage: autoDraw = False
+18.7043 	EXP 	DogImage2: autoDraw = False
+19.1878 	EXP 	New trial (rep=1, index=0): OrderedDict([('Cond1', 'dog/5.jpg'), ('Cond2', 'dog/6.jpg')])
+19.2403 	DATA 	Keypress: a
+19.2608 	EXP 	DogImage: autoDraw = False
+19.2608 	EXP 	DogImage2: autoDraw = False
+19.2608 	EXP 	DogImage: image = 'dog/5.jpg'
+19.2608 	EXP 	DogImage2: image = 'dog/6.jpg'
+19.2608 	EXP 	DogImage: autoDraw = True
+19.2608 	EXP 	DogImage2: autoDraw = True
+20.0598 	EXP 	New trial (rep=1, index=1): OrderedDict([('Cond1', 'dog/3.jpg'), ('Cond2', 'dog/4.jpg')])
+20.1036 	DATA 	Keypress: a
+20.1230 	EXP 	DogImage: autoDraw = False
+20.1230 	EXP 	DogImage2: autoDraw = False
+20.1230 	EXP 	DogImage: image = 'dog/3.jpg'
+20.1230 	EXP 	DogImage2: image = 'dog/4.jpg'
+20.1230 	EXP 	DogImage: autoDraw = True
+20.1230 	EXP 	DogImage2: autoDraw = True
+20.6285 	EXP 	New trial (rep=1, index=2): OrderedDict([('Cond1', 'dog/1.jpg'), ('Cond2', 'dog/2.jpg')])
+20.6711 	DATA 	Keypress: a
+20.6921 	EXP 	DogImage: autoDraw = False
+20.6921 	EXP 	DogImage2: autoDraw = False
+20.6921 	EXP 	DogImage: image = 'dog/1.jpg'
+20.6921 	EXP 	DogImage2: image = 'dog/2.jpg'
+20.6921 	EXP 	DogImage: autoDraw = True
+20.6921 	EXP 	DogImage2: autoDraw = True
+21.1214 	EXP 	New trial (rep=2, index=0): OrderedDict([('Cond1', 'dog/5.jpg'), ('Cond2', 'dog/6.jpg')])
+21.1689 	DATA 	Keypress: a
+21.1995 	EXP 	DogImage: autoDraw = False
+21.1995 	EXP 	DogImage2: autoDraw = False
+21.1995 	EXP 	DogImage: image = 'dog/5.jpg'
+21.1995 	EXP 	DogImage2: image = 'dog/6.jpg'
+21.1995 	EXP 	DogImage: autoDraw = True
+21.1995 	EXP 	DogImage2: autoDraw = True
+21.5447 	EXP 	New trial (rep=2, index=1): OrderedDict([('Cond1', 'dog/3.jpg'), ('Cond2', 'dog/4.jpg')])
+21.5830 	DATA 	Keypress: a
+21.6031 	EXP 	DogImage: autoDraw = False
+21.6031 	EXP 	DogImage2: autoDraw = False
+21.6031 	EXP 	DogImage: image = 'dog/3.jpg'
+21.6031 	EXP 	DogImage2: image = 'dog/4.jpg'
+21.6031 	EXP 	DogImage: autoDraw = True
+21.6031 	EXP 	DogImage2: autoDraw = True
+22.2401 	EXP 	New trial (rep=2, index=2): OrderedDict([('Cond1', 'dog/1.jpg'), ('Cond2', 'dog/2.jpg')])
+22.2798 	DATA 	Keypress: a
+22.3041 	EXP 	DogImage: autoDraw = False
+22.3041 	EXP 	DogImage2: autoDraw = False
+22.3041 	EXP 	DogImage: image = 'dog/1.jpg'
+22.3041 	EXP 	DogImage2: image = 'dog/2.jpg'
+22.3041 	EXP 	DogImage: autoDraw = True
+22.3041 	EXP 	DogImage2: autoDraw = True
+22.7283 	DATA 	Keypress: a
+22.7537 	EXP 	DogImage: autoDraw = False
+22.7537 	EXP 	DogImage2: autoDraw = False
+23.0378 	EXP 	window1: mouseVisible = True

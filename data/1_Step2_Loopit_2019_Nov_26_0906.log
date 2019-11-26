@@ -1,0 +1,31 @@
+6.3017 	WARNING 	User requested fullscreen with size [1024  768], but screen is actually [1440, 900]. Using actual size
+7.0434 	EXP 	Created window1 = Window(allowGUI=False, allowStencil=False, args=UNKNOWN, autoLog=True, bitsMode=UNKNOWN, blendMode='avg', color=array([0., 0., 0.]), colorSpace='rgb', fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x137066be0>, gamma=None, gammaErrorPolicy='raise', kwargs=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x136d2eb00>, multiSample=False, name='window1', numSamples=2, pos=[360.0, 225.0], screen=0, size=array([2880, 1800]), stereo=False, units='height', useFBO=True, useRetina=True, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+7.0435 	EXP 	window1: recordFrameIntervals = False
+7.2090 	EXP 	window1: recordFrameIntervals = True
+7.3926 	EXP 	window1: recordFrameIntervals = False
+8.0857 	EXP 	Created InstructionText = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='black', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='InstructionText', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=array([0., 0., 0.]), text=str(...), units='height', win=Window(...), wrapWidth=1)
+8.0880 	EXP 	Created DogImage = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, image='sin', interpolate=True, mask=None, maskParams=None, name='DogImage', opacity=1.0, ori=0.0, pos=array([0.4, 0. ]), size=array([0.5, 0.5]), texRes=128, units='height', win=Window(...))
+8.0898 	EXP 	Created DogImage2 = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, image='sin', interpolate=True, mask=None, maskParams=None, name='DogImage2', opacity=1.0, ori=0.0, pos=array([-0.4,  0. ]), size=array([0.5, 0.5]), texRes=128, units='height', win=Window(...))
+8.2811 	EXP 	Created text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='red', colorSpace='named', contrast=1.0, depth=-3.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.03, italic=False, languageStyle='LTR', name='text', opacity=1.0, ori=0, pos=array([ 0. , -0.4]), rgb=array([255.,   0.,   0.]), text=str(...), units='height', win=Window(...), wrapWidth=1)
+8.3025 	EXP 	InstructionText: autoDraw = True
+9.2776 	DATA 	Keypress: right
+11.2974 	EXP 	Imported DogCond.csv as conditions, 9 conditions, 2 params
+11.2978 	EXP 	Created sequence: fullRandom, trialTypes=9, nReps=1, seed=None
+11.2982 	EXP 	New trial (rep=0, index=0): OrderedDict([('Cond1', 'dog/5.jpg'), ('Cond2', 'dog/6.jpg')])
+11.4384 	EXP 	InstructionText: autoDraw = False
+11.4384 	EXP 	DogImage: image = 'dog/5.jpg'
+11.4384 	EXP 	DogImage2: image = 'dog/6.jpg'
+11.4384 	EXP 	DogImage: autoDraw = True
+11.4384 	EXP 	DogImage2: autoDraw = True
+11.4384 	EXP 	text: autoDraw = True
+14.3076 	EXP 	New trial (rep=0, index=1): OrderedDict([('Cond1', 'dog/1.jpg'), ('Cond2', 'dog/2.jpg')])
+14.3745 	EXP 	DogImage: autoDraw = False
+14.3745 	EXP 	DogImage2: autoDraw = False
+14.3745 	EXP 	text: autoDraw = False
+14.3745 	EXP 	DogImage: image = 'dog/1.jpg'
+14.3745 	EXP 	DogImage2: image = 'dog/2.jpg'
+14.3745 	EXP 	DogImage: autoDraw = True
+14.3745 	EXP 	DogImage2: autoDraw = True
+14.3745 	EXP 	text: autoDraw = True
+16.3753 	DATA 	Keypress: escape
+16.8447 	EXP 	window1: mouseVisible = True

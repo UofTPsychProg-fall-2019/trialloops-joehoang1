@@ -1,0 +1,2 @@
+﻿Cond1,Cond2,trials.thisRepN,trials.thisTrialN,trials.thisN,trials.thisIndex,InstructionText.started,InstructionText.stopped,DogImage.started,DogImage.stopped,DogImage2.started,DogImage2.stopped,key_resp.keys,key_resp.started,key_resp.stopped,text.started,text.stopped,participant,session,date,expName,psychopyVersion,frameRate,
+dog/5.jpg,dog/6.jpg,0,0,0,2,8.302508844062686,None,11.438387776026502,None,11.438387776026502,None,None,11.438387776026502,None,11.438387776026502,None,1,001,2019_Nov_26_0906,Step2_Loopit,3.2.4,59.9922824893187,

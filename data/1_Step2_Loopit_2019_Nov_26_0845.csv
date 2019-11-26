@@ -1,0 +1,3 @@
+﻿dog,Cond,trials.thisRepN,trials.thisTrialN,trials.thisN,trials.thisIndex,InstructionText.started,InstructionText.stopped,DogImage.started,DogImage.stopped,key_resp.keys,key_resp.rt,key_resp.started,key_resp.stopped,participant,session,date,expName,psychopyVersion,frameRate,
+dog/4.jpg,b,0,0,0,3,8.163298851111904,None,11.249784236075357,12.248945896048099,a,6.321657619904727,11.249784236075357,None,1,001,2019_Nov_26_0845,Step2_Loopit,3.2.4,59.87184166730065,
+dog/6.jpg,b,0,1,1,5,,,17.652513448148966,18.652047488139942,d,11.00162476603873,17.652513448148966,None,1,001,2019_Nov_26_0845,Step2_Loopit,3.2.4,59.87184166730065,
